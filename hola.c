@@ -5,6 +5,6 @@
 int main()
 {
     // la funcion "printf" envia un mensaje a consola
-    printf("Hola Mundo!!");
+    printf("Hola Mundo!!\n");
     return 0;
 }

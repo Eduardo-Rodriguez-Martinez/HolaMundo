@@ -1,3 +1,5 @@
+; Este programa se ensambla y liga con el siguiente comando:
+; ml hola_32bits.asm /Fe hola_32bits.exe /link /SUBSYSTEM:CONSOLE /DEFAULTLIB:"C:\Irvine\Kernel32.lib"
 TITLE Hola mundo en ensamblador				(hola.asm)
 
 .386
